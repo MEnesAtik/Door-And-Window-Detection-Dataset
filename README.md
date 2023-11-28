@@ -2,7 +2,7 @@
 
 The dataset includes 1000 labelled Google Street View images for building façade elements detection. 
 
-Doors and windows are labelled in each image.
+Doors and windows are labelled in each image based on the YOLO format.
 
 The dataset are splitted as train, validatioan, and test.
 
