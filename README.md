@@ -1,6 +1,6 @@
 # Door-And-Window-Detection-Dataset
 
-The dataset includes 1000 labelled Google Street View images for building façade elements detection. 
+The dataset includes 1000 labelled Google Street View images for building façade elements detection.
 
 Doors and windows are labelled in each image based on the YOLO v5 PyTorch format.
 
